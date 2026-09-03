@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"dbc7d0337657c684","x":-335,"y":-140,"width":655,"height":1880,"type":"file","file":"бессонова/Экономика/1 пара.md"},
+		{"id":"1f25397e196d3b51","type":"text","text":"1 пара\n","x":-132,"y":-280,"width":250,"height":60},
+		{"id":"66a75de4a3636c81","type":"text","text":"1) бизнес план\n2) расчет заработной платы\n3) прибыль","x":335,"y":-402,"width":265,"height":102}
+	],
+	"edges":[
+		{"id":"1544ba75c930e15d","fromNode":"1f25397e196d3b51","fromSide":"bottom","toNode":"dbc7d0337657c684","toSide":"top"}
+	]
+}

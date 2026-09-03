@@ -1,0 +1,352 @@
+{
+  "main": {
+    "id": "8685f1368acb2fd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c0fc3b6b2b108a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6a204a82d5da7ea",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "бессонова/Менеджмент.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Менеджмент"
+            }
+          },
+          {
+            "id": "ca74ede03835d5a9",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "бессонова/Экономика.canvas",
+                "viewState": {
+                  "x": 66.42158021184864,
+                  "y": 352.71404727634325,
+                  "zoom": -0.38883988154985316
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Экономика"
+            }
+          },
+          {
+            "id": "ab5507c803e00807",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "чалов/Стандартизация и сертификация.canvas",
+                "viewState": {
+                  "x": 292,
+                  "y": 1023,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Стандартизация и сертификация"
+            }
+          },
+          {
+            "id": "54ccd1fe1703117a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "олейник/ии/задания/1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1"
+            }
+          },
+          {
+            "id": "e03b4024e61422a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "бессонова/менеджмент/2 пара.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2 пара"
+            }
+          },
+          {
+            "id": "4e7f8a510b1654fe",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "бессонова/Экономика.canvas",
+                "viewState": {
+                  "x": 132.5,
+                  "y": 971.9504968814969,
+                  "zoom": -1.292353204730149
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Экономика"
+            }
+          },
+          {
+            "id": "af9af3cb1ce04e67",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "бессонова/ЮР.canvas",
+                "viewState": {
+                  "x": 547.4710982794825,
+                  "y": 1542.6787090502157,
+                  "zoom": -2.553759635070928
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "ЮР"
+            }
+          },
+          {
+            "id": "9dd25e7f8d7f0fc3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "бессонова/Общий план.canvas",
+                "viewState": {
+                  "x": 650.1322744135094,
+                  "y": -52.90745020420032,
+                  "zoom": -0.5345157952606678
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Общий план"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db3e0f13f2b53114",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cd642ad8d6e15ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e8b134a160de465",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "118ded0f7f6fcb94",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:api",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "df81dd77a5fcae5c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5560b0ab6b6392fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "52ce573da63049f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bd5752b3ea892c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "site-map/00-index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 00-index"
+            }
+          },
+          {
+            "id": "6f6696474ef709d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "site-map/00-index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из 00-index"
+            }
+          },
+          {
+            "id": "e6f778dfc187fd86",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "d4e490571aad6033",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "b85d571f1f59a1f3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "site-map/00-index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура 00-index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "e03b4024e61422a6",
+  "lastOpenFiles": [
+    "merge-ai-scheme-into-obsidian-canvas — копия.ps1",
+    "чалов — копия/Стандартизация и сертификация/1 пара.md",
+    "чалов — копия/Стандартизация и сертификация.canvas",
+    "чалов — копия/Стандартизация и сертификация",
+    "чалов — копия",
+    "работа — копия/main/site-map/11-route-service-matrix.md",
+    "работа — копия/main/site-map/14-quality-test-map.md",
+    "работа — копия/main/site-map/12-cabinet-screen-details.md",
+    "работа — копия/main/site-map/10-development-change-map.md",
+    "работа — копия/main/site-map/13-admin-operation-details.md",
+    "работа — копия/main/site-map/09-frontend-assets.md",
+    "работа — копия/main/site-map/07-ai-agent.md",
+    "работа — копия/main/site-map/06-data-model.md",
+    "работа — копия/main/site-map/05-api-catalog.md",
+    "работа — копия/main/site-map/08-security-performance.md",
+    "работа — копия/main/site-map/04-admin-zone.md",
+    "работа — копия/main/site-map/03-course-content.md",
+    "работа — копия/main/site-map/02-cabinet.md",
+    "работа — копия/main/site-map/00-index.md",
+    "работа — копия/main/site-map/01-public-zone.md",
+    "работа — копия/main/site-map",
+    "работа — копия/примет ответа.md",
+    "работа — копия/Без названия.base",
+    "работа — копия/Без названия.canvas",
+    "работа — копия/site-full-scheme.md",
+    "работа — копия/psy-site-full-scheme.canvas",
+    "работа — копия/psy-site-ai-full-request-flow.canvas",
+    "работа — копия/psy-site-ai-flow.md",
+    "работа — копия/psy-site-ai-abstract-scheme.canvas",
+    "работа — копия/admin-practice-types.md",
+    "работа — копия/main",
+    "работа — копия",
+    "олейник — копия/ии/задания/3.md",
+    "олейник — копия/ии/задания/2.md",
+    "олейник — копия/ии/задания/1.md",
+    "олейник — копия/ии/Мдк 06 04.md",
+    "олейник — копия/ии/задания",
+    "олейник — копия/ии",
+    "олейник — копия",
+    "бессонова — копия/юр/Юр дз 1.md",
+    "бессонова — копия/юр",
+    "бессонова — копия/Экономика.canvas",
+    "бессонова — копия/ЮР.canvas",
+    "бессонова — копия/Общий план.canvas",
+    "бессонова — копия/Менеджмент.canvas",
+    "бессонова/Экономика.canvas"
+  ]
+}

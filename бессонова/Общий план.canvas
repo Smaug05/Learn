@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"0846775d7f0f7ced","x":-23,"y":-163,"width":400,"height":400,"type":"file","file":"бессонова/Экономика.canvas"},
+		{"id":"222f9226659a7b20","x":400,"y":-140,"width":400,"height":400,"type":"file","file":"бессонова/ЮР.canvas"},
+		{"id":"ff96d0c4b1f644e9","x":-460,"y":-163,"width":400,"height":400,"type":"file","file":"бессонова/Менеджмент.canvas"},
+		{"id":"ec3662eb61140f24","x":48,"y":-352,"width":250,"height":60,"type":"text","text":"Бессонова"}
+	],
+	"edges":[
+		{"id":"f14ed6f652b692b2","fromNode":"ec3662eb61140f24","fromSide":"bottom","toNode":"0846775d7f0f7ced","toSide":"top"},
+		{"id":"56c989224d17f162","fromNode":"ec3662eb61140f24","fromSide":"bottom","toNode":"222f9226659a7b20","toSide":"top"},
+		{"id":"ca3420987a5f0e0a","fromNode":"ec3662eb61140f24","fromSide":"bottom","toNode":"ff96d0c4b1f644e9","toSide":"top"}
+	]
+}

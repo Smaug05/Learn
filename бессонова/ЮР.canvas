@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"bb38eeaba6af9fee","x":-454,"y":-163,"width":250,"height":60,"color":"6","type":"text","text":"Право"},
+		{"id":"dfb87d26ae592529","x":-465,"y":12,"width":1465,"height":3228,"type":"file","file":"бессонова/юр/ЮР - Система права.md"},
+		{"id":"ee0883cbf9533cc8","x":1128,"y":1383,"width":452,"height":1197,"type":"file","file":"бессонова/юр/Юр дз 1.md"}
+	],
+	"edges":[
+		{"id":"3af5ac2be7775806","fromNode":"bb38eeaba6af9fee","fromSide":"bottom","toNode":"dfb87d26ae592529","toSide":"top"},
+		{"id":"56b6ce505b0573a7","fromNode":"dfb87d26ae592529","fromSide":"right","toNode":"ee0883cbf9533cc8","toSide":"left"}
+	]
+}
