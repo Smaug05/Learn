@@ -1,0 +1,27 @@
+Изображений: 1797; признаков: 64
+Обучение: 1437; тест: 360; нормализация X / 16.0
+Python 3.12.14, scikit-learn 1.9.1
+    (32,): epochs=213, train=0.989562, test=0.975000 (351/360)
+Матрица ошибок (строки — правильная цифра, столбцы — ответ):
+[[35  0  0  0  1  0  0  0  0  0]
+ [ 0 34  0  0  0  1  0  0  1  0]
+ [ 0  0 35  0  0  0  0  0  0  0]
+ [ 0  0  0 36  0  1  0  0  0  0]
+ [ 0  0  0  0 36  0  0  0  0  0]
+ [ 0  0  0  0  0 37  0  0  0  0]
+ [ 0  0  0  0  0  0 35  0  1  0]
+ [ 0  0  0  0  1  0  0 35  0  0]
+ [ 0  3  0  0  0  0  0  0 32  0]
+ [ 0  0  0  0  0  0  0  0  0 36]]
+Ошибки цифра → ответ: [{'true_digit': 8, 'predicted_digit': 1, 'count': 3}, {'true_digit': 0, 'predicted_digit': 4, 'count': 1}, {'true_digit': 1, 'predicted_digit': 5, 'count': 1}, {'true_digit': 1, 'predicted_digit': 8, 'count': 1}, {'true_digit': 3, 'predicted_digit': 5, 'count': 1}, {'true_digit': 6, 'predicted_digit': 8, 'count': 1}, {'true_digit': 7, 'predicted_digit': 4, 'count': 1}]
+WARNING (2,): ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+     (2,): epochs=500, train=0.608907, test=0.594444 (214/360)
+WARNING (8,): ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+     (8,): epochs=500, train=0.993737, test=0.955556 (344/360)
+    (32,): epochs=434, train=1.000000, test=0.977778 (352/360)
+   (128,): epochs=282, train=1.000000, test=0.983333 (354/360)
+ (16, 16): epochs=493, train=1.000000, test=0.972222 (350/360)
+ (64, 32): epochs=243, train=1.000000, test=0.977778 (352/360)
+Сохранена лучшая наблюдавшаяся модель: (128,) test_accuracy= 0.9833333333333333
+Повторная загрузка joblib: предсказания совпали.
+Результаты: C:\Users\artem\Documents\Codex\2026-11-10\new-chat\work\Learn\олейник\ии\практические работы\3
